@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pawansen007-blue?logo=linkedin)](https://linkedin.com/in/pawansen007)
 [![Gmail](https://img.shields.io/badge/Email-pawan.yn007@gmail.com-red?logo=gmail)](mailto:pawan.yn007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-amanguptak-black?logo=github)](https://github.com/amanguptak)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=github)](https://github.com/pawansen)
 
 ---
 
@@ -92,18 +92,11 @@ My mission is to **build tech that solves real-world problems** efficiently and 
 
 ---
 
-### 🧩 GitHub Stats  
-
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanguptak&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanguptak&layout=compact&theme=radical)
-
----
-
 ### 💬 Let’s Connect  
 
 💼 [LinkedIn](https://linkedin.com/in/pawansen007)  
 📧 [pawan.yn007@gmail.com](mailto:pawan.yn007@gmail.com)  
-🌍 [GitHub Profile](https://github.com/amanguptak)
+🌍 [GitHub Profile](https://github.com/pawansen)
 
 ---
 
